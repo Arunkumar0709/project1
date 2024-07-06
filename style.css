@@ -1,0 +1,19 @@
+.a{
+    right: 300px;
+    left: 200px;
+}img{
+    border-radius: 45px;
+    margin: 20px;
+    margin-top: 50px;
+    margin-left: 100px;
+
+}
+h1{
+    font-size: 75px;
+    color: rgb(227, 178, 32);
+    font-style: oblique;
+    
+    
+}
+body{
+    background-image: url(./istockphoto-1144461583-612x612.jpg)
